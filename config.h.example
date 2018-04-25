@@ -1,7 +1,7 @@
 // WiFi config
 #define HOST_NAME "Portal-2"
-#define WIFI_SSID "BabayX"
-#define WIFI_PASSWORD "Babay38795764"
+#define WIFI_SSID ""
+#define WIFI_PASSWORD ""
 
 // OTA
 #define MD5_PASSWORD "17318429d8d08b559fc56101b0584044"
