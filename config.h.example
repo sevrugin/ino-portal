@@ -1,0 +1,10 @@
+// WiFi config
+#define HOST_NAME "Portal-2"
+#define WIFI_SSID "BabayX"
+#define WIFI_PASSWORD "Babay38795764"
+
+// OTA
+#define MD5_PASSWORD "17318429d8d08b559fc56101b0584044"
+
+// Telnet
+#define MAX_SRV_CLIENTS 1
